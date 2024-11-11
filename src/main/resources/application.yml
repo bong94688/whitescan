@@ -1,0 +1,6 @@
+spring:
+  graphql:
+    graphiql:
+      enabled: true # graphiql을 통해 테스트 가능 여부 (localhost:8080/graphiql)
+      printer:
+        enabled: true # show-sql와 같이 graphql 콘솔에 쿼리 출력
