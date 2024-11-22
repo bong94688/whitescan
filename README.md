@@ -27,6 +27,5 @@
 }
 
 ```
-- velog
-https://velog.io/@bong9468/posts
+- velog https://velog.io/@bong9468/posts
 ```
